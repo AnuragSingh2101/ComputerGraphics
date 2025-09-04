@@ -51,3 +51,4 @@ for edge in cube_edges:
 axes[1].set_aspect('equal')
 
 plt.show()
+
